@@ -7,10 +7,11 @@ If you've found this small corner of the internet, you probably already know me.
 
 ![[anita_goatmire.jpg]]
 
-As a senior software engineer with over a decade of experience, I enjoy learning as well as mentoring and teaching. I am firm believer that empowering each other and building strong networks, makes life not only easier but also more fun.  
+As a senior software engineer with over a decade of experience, I enjoy learning as well as mentoring and teaching. I am a firm believer that empowering each other and building strong networks, makes life not only easier but also more fun.  
 
 That's why I want to use this place to share my thoughts on my favorite topics, some of which are
 * test driven development, software architecture, working with legacy code
+* functional programming, elixir
 * team culture, continuous learning, pair programming
 * quick development pace, getting value to the customer
 * networking, community building, working out loud
