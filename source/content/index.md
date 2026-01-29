@@ -7,14 +7,9 @@ If you've found this small corner of the internet, you probably already know me.
 
 ![[anita_goatmire.jpg]]
 
-I ...
-* am a Senior Software Engineer @ Modell Aachen
-* co-founded the Ladybugs Aachen, a monthly meetup for women in software engineering
-* did a few talks on conferences
-* did a lot of workshops on different topics from software engineering to swimming.
-* enjoy sharing experiences, learning from each other, giving talks and workshops
+As a senior software engineer with over a decade of experience, I enjoy learning as well as mentoring and teaching. I am firm believer that empowering each other and building strong networks, makes life not only easier but also more fun.  
 
-This is the place where I want to share my work, talks, projects and thoughts on my favorite topics, some of which are
+That's why I want to use this place to share my thoughts on my favorite topics, some of which are
 * test driven development, software architecture, working with legacy code
 * team culture, continuous learning, pair programming
 * quick development pace, getting value to the customer
@@ -22,13 +17,13 @@ This is the place where I want to share my work, talks, projects and thoughts on
 * swimming, rescue swimming
 * mentoring, teaching and talking
 
-Come find me on:
+And I want to invite you to do the same. So come find me on:
 * [LinkedIn](https://www.linkedin.com/in/anita-ludermann)
 * [Speakerinnen.org](https://speakerinnen.org/de/profiles/anita-ludermann)
 * [Sessionize](https://sessionize.com/anita-ludermann)
 * [Github](https://github.com/Anita219)
 * [Bluesky](https://bsky.app/profile/la-nita.bsky.social")
 
-Let's create cool things! :)
+Let's create cool things together! :)
 
 
