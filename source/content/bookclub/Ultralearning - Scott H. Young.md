@@ -25,28 +25,42 @@ The book aims to find common strategies between the different ultralearners and 
 
 ## Chapter 2: Why Ultralearning matters
 
-A strategy for acquiring skills and knowledge that is both self directed and intense 
+Definition: Ultralearning is a strategy for acquiring skills and knowledge that is both self directed and intense 
 
 It's a strategy - not the only solution and part of your toolbox. You CHOOSE this strategy, you do not have to use it. 
 
-It's self directed - you decide why, how and what to learn. You are in the driver's seat 
+It's self directed - you are in the driver's seat, you decide how, why, when and what to learn
 
-It's intense - you commit and do the hard mental work. It's not optimized for fun, it's optimized for deeply and effectively learning things. 
+It's intense - you commit and do the hard mental work. It's not optimized for fun, it's optimized for deeply and effectively learning things
 
-So why do it?
-For work. Nicht treiben lassen, bestimmen deine Karriere selbst. Ultralearning ist intensiv, aber weniger intensiv als 40 Stunden in der Woche zu arbeiten.
+Ultralearning can have a lot of benefits for your life. First of all, your career. Being able to learn new stuff fast, is important to either keep up with your job or switch to a better one. In your private life, it's a sense of accomplishment and a challenge to yourself.
 
-For your private life. It gives a sense of accomplishment, it gives you something to be proud 
+You do not need to be exceptionally brilliant, it's about the methods and tools you use, no matter where you start. 
 
-"Average is over" - the gap between high skill and low skill jobs is getting bigger with no in-between. Ultralearning can enable you to get those high skill jobs. 
+You don't need to take a year off work to practice Ultralearning. It can be done in the time you already devote to learning or only on weekends or whatever fits your schedule. It's about being purposeful and the intensity. 
 
-Skill gaps from school, constantly changing fields 
+## Chapter 3 - How to become an Ultralearner
 
-Technology allow
+With Ultralearning, you are bound to learn something new, even on the failure path. You just need to stick with your project.
 
-## Chapter 3
+Learn the fundamental principle, which means how it works. Then you can apply it to your personal challenges. Many are supported by science 
 
-## Chapter 4
+1. Meta learning - First, draw a map
+2. Focus - Sharpen your knife 
+3. Directness - Go straight ahead
+4. Drill - Attack your weakest point 
+5. Retrieval - Test to learn
+6. Feedback - Don't dodge the punches
+7. Retention - Don't fill a leaking bucket
+8. Intuition - Dig deep before building up
+9. Experimentation - Explore outside your comfort zone 
+
+Ethos: Take responsibility for your learning. You are in charge. 
+## Chapter 4 - Meta Learning 
+
+First, draw a map.
+
+
 
 ## Chapter 5
 

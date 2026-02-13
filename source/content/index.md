@@ -25,6 +25,6 @@ But I don't want to just yell into the void. So come find me on:
 * [Speakerinnen.org](https://speakerinnen.org/de/profiles/anita-ludermann)
 * [Sessionize](https://sessionize.com/anita-ludermann)
 * [Github](https://github.com/Anita219)
-* [Bluesky](https://bsky.app/profile/la-nita.bsky.social")
+* [Bluesky](https://bsky.app/profile/la-nita.bsky.social)
 
 Let's connect, learn from each other and create cool things together! :)
