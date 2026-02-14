@@ -15,7 +15,7 @@
               "state": {
                 "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
@@ -170,11 +170,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "community",
     "IMG_20260214_055010.jpg",
     "anita.png",
-    "My first steps in public speaking and how you can do it, too.md",
+    "community/My first steps in public speaking and how you can do it, too.md",
     "index.md",
     "bookclub/Ultralearning - Scott H. Young.md",
     "anita_goatmire.jpg",
