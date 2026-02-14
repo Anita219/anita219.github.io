@@ -2,7 +2,7 @@ I walked into the room where I would give my first conference talk just to get a
 
 > I was definitely far out of my comfort zone.
 
-![[IMG20250515083735.jpg]]
+![[elixirconf_chairs.jpg]]
 
 So how did I get there?
 Last year I took the plunge into public speaking. It was exciting, it was fun, and it snowballed in ways I never imagined.
@@ -51,7 +51,7 @@ Finally, all that was left was to hit "Submit". After taking a few deep breaths 
 
 In January I received the acceptance email 🎉 
 
-![[anita.png]]
+![[elixirconf_header.png]]
 
 I rode that high for a few weeks and felt encouraged to look for other opportunities. I discovered the Goatmire Elixir Conference in Sweden (September 2025) which had a really cool vibe and feeling I had nothing to lose, I submitted the same proposal there as well. I got accepted for this one as well. 
 
@@ -82,7 +82,7 @@ The technical side was straightforward. I arrived early, connected my laptop to 
 
 Right before the presentation, I was sooo nervous. Not eating much for lunch out of fear I'd vomit during the talk and super intimidated by all the chairs filling with people.
 
-![[IMG_20260214_055010.jpg]]
+![[elixirconf_talk.jpg]]
 
 During the presentation I slipped into “just do it” mode. I don't remember what exactly I said in detail but once I got going, I felt fine and focused on my flow. Mid‑talk I briefly forgot my English and defaulted to German, but I recovered quickly and finished in time and feeling confident in my message. The short Q&A that followed went well, and I stepped offstage feeling relieved and exhilarated.
 

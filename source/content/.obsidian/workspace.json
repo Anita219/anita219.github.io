@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "community/index.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "index"
@@ -170,17 +170,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "community/My first steps in public speaking and how you can do it, too.md",
+    "elixirconf_header.png",
+    "goatmire_anita.jpg",
+    "elixirconf_chairs.jpg",
+    "elixirconf_talk.jpg",
+    "index.md",
+    "Untitled",
+    "community/index.md",
     "My first steps in public speaking and how you can do it, too.md",
     "community",
-    "IMG_20260214_055010.jpg",
-    "anita.png",
-    "community/My first steps in public speaking and how you can do it, too.md",
-    "index.md",
     "bookclub/Ultralearning - Scott H. Young.md",
-    "anita_goatmire.jpg",
-    "IMG20250515083735.jpg",
     "bookclub",
     "Pasted image 20260129222036.png",
     "Pasted image 20260129222158.png",
