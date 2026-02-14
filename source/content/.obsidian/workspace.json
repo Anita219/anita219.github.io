@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My first steps in public speaking and how you can do it, too.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My first steps in public speaking and how you can do it, too"
+              "title": "index"
             }
           }
         ]
@@ -172,6 +172,8 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "IMG_20260214_055010.jpg",
+    "anita.png",
     "My first steps in public speaking and how you can do it, too.md",
     "index.md",
     "bookclub/Ultralearning - Scott H. Young.md",
