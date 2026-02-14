@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "community/index.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
@@ -172,14 +172,15 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "coummunity.md",
+    "index.md",
+    "community/index.md",
     "community/My first steps in public speaking and how you can do it, too.md",
     "elixirconf_header.png",
     "goatmire_anita.jpg",
     "elixirconf_chairs.jpg",
     "elixirconf_talk.jpg",
-    "index.md",
     "Untitled",
-    "community/index.md",
     "My first steps in public speaking and how you can do it, too.md",
     "community",
     "bookclub/Ultralearning - Scott H. Young.md",

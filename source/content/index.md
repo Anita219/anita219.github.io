@@ -16,7 +16,7 @@ I want to use this place to share my thoughts on my experiences and favorite top
 * functional programming, elixir
 * team culture, continuous learning, pair programming
 * quick development pace, getting value to the customer
-* [[coummunity/]] - things like networking, conferences, working out loud
+* [[community/]] - things like networking, conferences, working out loud
 * swimming, rescue swimming
 * mentoring, teaching
 
