@@ -1,3 +1,7 @@
+---
+title: community
+---
+
 All things community and networking related.
 
 * working out loud
